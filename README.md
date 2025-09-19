@@ -13,11 +13,11 @@ A very simple Python script that scrapes album names from the [SEVENTEEN Wiki](h
    ```bash
    git clone https://github.com/YOUR_USERNAME/seventeen-album-scraper.git
    cd seventeen-album-scraper
-Install dependencies:
+2. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-Run the script:
+3. Run the script:
 ```
 python scraper.py
 ```
