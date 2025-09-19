@@ -14,18 +14,18 @@ A very simple Python script that scrapes album names from the [SEVENTEEN Wiki](h
    git clone https://github.com/YOUR_USERNAME/seventeen-album-scraper.git
    cd seventeen-album-scraper
 2. Install dependencies:
-```
-pip install -r requirements.txt
-```
+   ```
+   pip install -r requirements.txt
+   ```
 3. Run the script:
-```
-python scraper.py
-```
+   ```
+   python scraper.py
+   ```
 ## Output
 
 The script generates a file called album_data.csv with album names and the names are printed in the terminal.
 
-Example:
+## Example:
 
 Album Released this year
 17 Carat
@@ -35,4 +35,4 @@ Teen, Age
 
 ## Contributing
 
-This is just a small web-scraping trial project. Contributions aren't required. 
+This is just a small fun web-scraping trial project. Contributions aren't required. 
